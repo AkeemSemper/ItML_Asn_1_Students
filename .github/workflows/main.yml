@@ -51,6 +51,7 @@ jobs:
 
           # Copy all
           cp -r Intro_to_Machine_Learning_Full_Repo/student_work/assignments/asn1/* .
+          rm SAMP_SOL*
           #ls -la workbooks
 
           # Clear
